@@ -1,0 +1,40 @@
+*{
+  font-family: sans-serif;
+}
+
+body{
+    height: 100vh;
+  }
+  
+::placeholder {
+  color: white;
+}
+
+.header {
+  background-color : #242424; 
+  height: auto;
+}
+
+.bg {
+  background-color : #eeeeee;
+}
+
+.footer {
+  background-color : #242424; 
+  height: auto;    
+}
+
+.footer-title {
+  padding-top: 4rem;
+  padding-bottom: 1rem;
+}
+
+.iconRight {
+  background: url("./assets/search.png") no-repeat 98%;
+  background-size: 5%;
+  width: 90%;
+}
+
+#account {
+  margin-top: 1rem;
+}
