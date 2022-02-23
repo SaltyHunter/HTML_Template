@@ -2,7 +2,7 @@
 
 launch the project :
 	
-			npm start
+	npm start
 	
 and the web page was enable at : localhost:8080
 
